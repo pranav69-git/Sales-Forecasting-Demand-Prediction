@@ -33,9 +33,11 @@ Pronov Mazumdar
 
 # Screenshots
 ## 📸 Dashboard Preview
-![Sales Overview](Page1.png)
-![Promotion Analysis](Page2.png)
-![Forecast Page](Page3.png)
+
+![Sales Overview](Page%201.png)
+![Promotion Analysis](Page%202.png)
+![Forecast Page](Page%203.png)
+
 
 
 
